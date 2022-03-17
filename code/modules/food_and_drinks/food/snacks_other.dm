@@ -3,7 +3,7 @@
 
 /obj/item/reagent_containers/food/snacks/store/cheesewheel
 	name = "cheese wheel"
-	desc = "A big wheel of delcious Cheddar."
+	desc = "A big wheel of delicious Cheddar."
 	icon_state = "cheesewheel"
 	slice_path = /obj/item/reagent_containers/food/snacks/cheesewedge
 	slices_num = 5
@@ -11,8 +11,6 @@
 	w_class = WEIGHT_CLASS_NORMAL
 	tastes = list("cheese" = 1)
 	foodtype = DAIRY
-
-
 
 /obj/item/reagent_containers/food/snacks/royalcheese
 	name = "royal cheese"

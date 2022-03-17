@@ -1,6 +1,6 @@
 /obj/item/reagent_containers/food/drinks/bluespaceflask
 	name = "bluespace flask"
-	desc = "Every good spaceman likes to carry there own flask of whiskey, now with more then double the carrying compacity!."
+	desc = "Every good spaceman likes to carry their own flask of whiskey, now with more than double the carrying capacity!."
 	icon_state = "bluespaceflask"
 	icon = 'modular_nostra/icons/obj/drinks.dmi'
 	custom_materials = list(/datum/material/iron=250, /datum/material/bluespace = 25)
