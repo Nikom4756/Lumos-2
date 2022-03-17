@@ -3840,7 +3840,6 @@
 #include "modular_lumos\code\modules\client\loadout\__donator.dm"
 #include "modular_lumos\code\modules\custom_loadout\custom_items.dm"
 #include "modular_lumos\code\modules\hydroponics\plant_genes.dm"
-#include "modular_lumos\code\modules\mob\dead\new_player\sprite_accessories\horns.dm"
 #include "modular_nostra\code\__DEFINES\actionspeed_modifiers.dm"
 #include "modular_nostra\code\__DEFINES\construction.dm"
 #include "modular_nostra\code\__DEFINES\DNA.dm"
